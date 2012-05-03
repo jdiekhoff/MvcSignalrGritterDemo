@@ -1,0 +1,15 @@
+_Resharper*/
+*.user
+*.suo
+*.dll
+*.pdb
+*.msi
+*.exe
+bin/
+ClientBin/
+obj/
+*.DS_Store
+web-log.txt
+*.DS_Store*
+Logs/
+TestResults/
